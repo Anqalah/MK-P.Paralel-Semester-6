@@ -1,0 +1,51 @@
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.AssemblyReference.cache
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.Form1.resources
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.GenerateResource.cache
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.AssemblyInfoInputs.cache
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.AssemblyInfo.cs
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.CoreCompileInputs.cache
+C:\Users\Faris\source\repos\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.exe
+C:\Users\Faris\source\repos\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.deps.json
+C:\Users\Faris\source\repos\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.runtimeconfig.json
+C:\Users\Faris\source\repos\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.dll
+C:\Users\Faris\source\repos\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.pdb
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.dll
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\refint\BilPrima.dll
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.pdb
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.genruntimeconfig.cache
+C:\Users\Faris\source\repos\BilPrima\BilPrima\obj\Debug\net6.0-windows\ref\BilPrima.dll
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.exe
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.deps.json
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.runtimeconfig.json
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.dll
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.pdb
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.Form1.resources
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.dll
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\refint\BilPrima.dll
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.pdb
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\BilPrima\BilPrima\obj\Debug\net6.0-windows\ref\BilPrima.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.exe
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.deps.json
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\bin\Debug\net6.0-windows\BilPrima.pdb
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.Form1.resources
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\refint\BilPrima.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.pdb
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\BilPrima.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\BilPrima\BilPrima\obj\Debug\net6.0-windows\ref\BilPrima.dll
