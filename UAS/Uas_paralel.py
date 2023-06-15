@@ -7,6 +7,7 @@ import threading
 import docx2pdf
 import time
 
+
 def convert_to_pdf():
     # Mendapatkan daftar file Word
     file_paths = filedialog.askopenfilenames(filetypes=[("Word Documents", "*.docx")])
@@ -76,11 +77,12 @@ def convert_file(file_path, output_folder):
 root = tk.Tk()
 root.title("Konversi Word ke PDF")
 root.geometry("400x200")
+root.configure(bg="#000000")
 
 # Membuat label judul
-title_label = tk.Label(root, text="Konversi File Word ke PDF", font=("Poppins", 16), bg="#FFFFFF")
+title_label = tk.Label(root, text="Konversi File Word ke PDF", font=("Poppins", 16), bg="black", fg="orange")
 title_label.pack(pady=10)
-subtitle_label = tk.Label(root, text="UAS P.Paralel Kelompok 7", font=("Poppins", 16), bg="#FFFFFF")
+subtitle_label = tk.Label(root, text="UAS P.Paralel Kelompok 7", font=("Poppins", 16), bg="black", fg="orange")
 subtitle_label.pack(pady=10)
 
 # Membuat tombol "Pilih File" untuk memilih file Word dan konversi ke PDF
