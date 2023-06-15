@@ -1,0 +1,71 @@
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.exe
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.deps.json
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.runtimeconfig.json
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.dll
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.pdb
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.AssemblyReference.cache
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS_p1.Form1.resources
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.GenerateResource.cache
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfoInputs.cache
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfo.cs
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.CoreCompileInputs.cache
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.dll
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\refint\UTS p1.dll
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.pdb
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.genruntimeconfig.cache
+E:\PROYEK\UTS PARALLEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\ref\UTS p1.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.exe
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.deps.json
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.pdb
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS_p1.Form1.resources
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\refint\UTS p1.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.pdb
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\ref\UTS p1.dll
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.exe
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.deps.json
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.runtimeconfig.json
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.dll
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.pdb
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.AssemblyReference.cache
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS_p1.Form1.resources
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS_p1.Properties.Resources.resources
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.GenerateResource.cache
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfoInputs.cache
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfo.cs
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.CoreCompileInputs.cache
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.dll
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\refint\UTS p1.dll
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.pdb
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.genruntimeconfig.cache
+C:\Users\Nur Riska Salsabila\Documents\Kuliah\Semester 6\Pemrograman Paralel\UTS p1\UTS p1\obj\Debug\net6.0-windows\ref\UTS p1.dll
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.exe
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.deps.json
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.runtimeconfig.json
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.dll
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\bin\Debug\net6.0-windows\UTS p1.pdb
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS_p1.Form1.resources
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS_p1.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.dll
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\refint\UTS p1.dll
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.pdb
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS p1.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\UTS p1\UTS p1\UTS p1\obj\Debug\net6.0-windows\ref\UTS p1.dll
+C:\Users\Lenovo\OneDrive - Balikpapan Cerdas\FADHIL\Semester 6\PEMROGRAMAN PARALEL\UTS p1\UTS p1\obj\Debug\net6.0-windows\UTS_p1.Properties.Resources.resources
